@@ -1,0 +1,4 @@
+[build]
+  base = "NirulHousePortfolio-master"
+  command = "npm run build"
+  publish = "dist"
